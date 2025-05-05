@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arthurveloster
+- 👋 Hi, I’m @arthurcarreiro
 - 👀 I’m interested in ... Studying
 - 🌱 I’m currently learning ... Math
 - 💞️ I’m looking to collaborate on ... ML Projects
