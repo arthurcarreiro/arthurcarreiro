@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @arthurcarreiro
-- 👀 I’m interested in ... Studying and Working
-- 🌱 I’m currently learning ... Math for ML, Java, Python
-- 💞️ I’m looking to collaborate on ... Data Science
+- 👀 I’m interested in ... Data Science
+- 🌱 I’m currently learning ... Java/Python
+- 💞️ I’m looking to collaborate on ... Java/Python
